@@ -6,4 +6,4 @@ and see the requiremnets file for the dataset used:pg5200.txt
 
 Notebook is uploaded with all the codes: TaskB.ipynb 
 
-Datset for task B: real_and_fake_faces
+Dataset for task B: real_and_fake_faces
